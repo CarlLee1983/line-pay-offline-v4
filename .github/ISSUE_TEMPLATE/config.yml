@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://github.com/CarlLee1983/line-pay-offline-v4-node#readme
+    about: Read the documentation
+  - name: 🔒 Security Issue
+    url: https://github.com/CarlLee1983/line-pay-offline-v4-node/security/advisories/new
+    about: Report a security vulnerability privately
+  - name: 💬 Questions
+    url: https://github.com/CarlLee1983/line-pay-offline-v4-node/issues/new?labels=question
+    about: Ask questions about usage
