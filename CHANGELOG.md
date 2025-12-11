@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 1.0.0 (2025-12-11)
+
+
+### Features
+
+* initial release with full LINE Pay Offline V4 API support ([bf550ca](https://github.com/CarlLee1983/line-pay-offline-v4/commit/bf550ca3edc6b33203acb0f3e4900792af12caff))
+
 ## [1.0.0] - 2025-12-11
 
 ### Added
