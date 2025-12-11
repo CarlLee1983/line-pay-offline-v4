@@ -67,8 +67,8 @@ We actively welcome your pull requests:
 1. **Fork and clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/line-pay-offline-v4-node.git
-cd line-pay-offline-v4-node
+git clone https://github.com/YOUR_USERNAME/line-pay-offline-v4.git
+cd line-pay-offline-v4
 ```
 
 2. **Install dependencies**
@@ -320,7 +320,7 @@ async requestPayment(request: PaymentRequest): Promise<PaymentResponse> {
 
 If you have questions about contributing, feel free to:
 
-- Open a [GitHub Issue](https://github.com/CarlLee1983/line-pay-offline-v4-node/issues/new)
+- Open a [GitHub Issue](https://github.com/CarlLee1983/line-pay-offline-v4/issues/new)
 - Create an issue with the "question" label
 
 ## License

@@ -24,7 +24,7 @@ Send your vulnerability report to:
 - **Subject**: `[SECURITY] line-pay-offline-v4: [Brief Description]`
 
 Or use GitHub's private vulnerability reporting feature:
-- Go to the [Security tab](https://github.com/CarlLee1983/line-pay-offline-v4-node/security/advisories/new)
+- Go to the [Security tab](https://github.com/CarlLee1983/line-pay-offline-v4/security/advisories/new)
 
 ### 3. Include Details
 

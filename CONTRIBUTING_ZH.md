@@ -67,8 +67,8 @@
 1. **Fork 並複製儲存庫**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/line-pay-offline-v4-node.git
-cd line-pay-offline-v4-node
+git clone https://github.com/YOUR_USERNAME/line-pay-offline-v4.git
+cd line-pay-offline-v4
 ```
 
 2. **安裝依賴**
@@ -320,7 +320,7 @@ async requestPayment(request: PaymentRequest): Promise<PaymentResponse> {
 
 如果您對貢獻有任何問題，歡迎：
 
-- 開啟 [GitHub Issue](https://github.com/CarlLee1983/line-pay-offline-v4-node/issues/new)
+- 開啟 [GitHub Issue](https://github.com/CarlLee1983/line-pay-offline-v4/issues/new)
 - 建立帶有「question」標籤的 issue
 
 ## 授權

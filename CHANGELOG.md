@@ -59,5 +59,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[1.0.1]: https://github.com/CarlLee1983/line-pay-offline-v4-node/releases/tag/v1.0.1
-[1.0.0]: https://github.com/CarlLee1983/line-pay-offline-v4-node/releases/tag/v1.0.0
+[1.0.1]: https://github.com/CarlLee1983/line-pay-offline-v4/releases/tag/v1.0.1
+[1.0.0]: https://github.com/CarlLee1983/line-pay-offline-v4/releases/tag/v1.0.0
