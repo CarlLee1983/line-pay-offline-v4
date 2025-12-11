@@ -1,6 +1,6 @@
 {
   "name": "line-pay-offline-v4",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official LINE Pay Offline V4 API SDK for Node.js/Bun. Supports payment request, capture, void, refund operations. Type-safe with TypeScript, 100% test coverage, ESM/CJS dual-format.",
   "type": "module",
   "main": "./dist/index.cjs",
